@@ -7,7 +7,7 @@ A Python-based automatic text summarization tool that preserves the original tex
 - **Adjustable Compression**: Specify summary length as a percentage (1-100) of the original text.
 - **Batch Processing**: Process multiple `.txt` files in a directory.
 - **Order Retention**: Selected sentences appear in their original sequence.
-- Run it a first time so that 'nltk.download('punkt')' is downloaded.
+- Run it a first time so that `nltk.download('punkt')` is downloaded.
 
 ## Installation
 
